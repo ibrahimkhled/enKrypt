@@ -1,4 +1,4 @@
-<br />
+495c43f0ca27b07388dbcc58de6f31f6ee3eb761<br />
 <div align="center">
   <a href="https://github.com/enkryptcom/enKrypt">
     <img src="enkrypt.png" alt="Logo">
